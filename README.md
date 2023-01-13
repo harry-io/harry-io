@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm Harikesh Kumar</h1>
 <h3 align="center">An Enthusiastic Full Stack Web Developer from India</h3>
-
+<img src="https://i.imgur.com/zlVRFb2.png" alt="poster"/>
 
 - 🌱 I’m currently learning **MERN**
 
