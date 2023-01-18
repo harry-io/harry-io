@@ -23,6 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harry-io&show_icons=true&locale=en" alt="harry-io" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-io&" alt="harry-io" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-io&amp;layout=compact&amp;hide_border=true&amp;theme=radical" alt="stats" style="width: 50%;"></p>
 
 
 
