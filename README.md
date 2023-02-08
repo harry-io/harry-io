@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harry-io&theme=buddhism&show_icons=true&locale=en&border_radius=10" alt="harry-io" style="width: 50%;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-io&](https://github-readme-stats.vercel.app/api?username=harry-io&show_icons=true&bg_color=212237&title_color=00ff00&text_color=00ff00&icon_color=DD2727&text_bold=false&border_radius=10&hide_border=true" alt="harry-io" style="width: 50%;" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-io&](https://github-readme-stats.vercel.app/api?username=harry-io&show_icons=true&bg_color=212237&title_color=00ff00&text_color=00ff00&icon_color=DD2727&text_bold=false&border_radius=10&hide_border=false" alt="harry-io" style="width: 50%;" /></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-io&amp;layout=compact&amp;hide_border=true&amp;theme=radical" alt="stats" style="width: 50%;"></p>
@@ -33,8 +33,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harry-io&theme=buddhism&no-frame=true&no-bg=false&margin-w=4)
-
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=harry-io&layout=compact&title_color=00ff00&bg_color=212237&hide_border=true&text_color=00ff00))
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
