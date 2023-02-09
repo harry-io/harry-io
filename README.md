@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://harry-io.github.io/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.Js, Reduc,React-redux, TypeScript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.Js, React-redux, TypeScript**
 
 - 📫 How to reach me <a href="https://r1ego9262@gmail.com" target="blank">E-Mail</a>
 
