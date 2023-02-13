@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React.Js, React-redux, TypeScript**
 
-- 📫 How to reach me <a href="https://r1ego9262@gmail.com" target="blank">E-Mail</a>
+- 📫 Reach me through <a href="https://r1ego9262@gmail.com" target="blank">E-Mail</a>
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/1X_gCg31PVf4WjuU3J3xmNjyCoUNDgfic/view?usp=share_link)
+- 📄 My [Resume](https://drive.google.com/file/d/1X_gCg31PVf4WjuU3J3xmNjyCoUNDgfic/view?usp=share_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harikesh-kumar-572a9923a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harry_ioc) 
